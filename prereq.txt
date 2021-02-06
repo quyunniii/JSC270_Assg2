@@ -1,0 +1,8 @@
+Uniform
+Poisson
+Normal Bernoulli
+Chi-squared
+Bernoulli
+Binomial
+Exponential
+Geometric
